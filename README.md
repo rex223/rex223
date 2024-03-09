@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rex223
+- 👀 I’m interested in learning about new things
+- 📫 How to reach me --> "trickchasers223@gmail.com"
