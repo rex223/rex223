@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rex223
-- 👀 I’m interested in learning about new things
-- 📫 How to reach me --> "trickchasers223@gmail.com"
+- 👋 Hi, I’m @rex223(RAQUIB) currently pursuing B.Tech in AI & ML from NSEC
+- 👀 I’m passionate about ML and DL projects which makes our day to day life easier
+- 📫 How to reach me --> "https://linktr.ee/rex322"
