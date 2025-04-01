@@ -19,11 +19,5 @@ I'm a **B.Tech student in AIML (Batch 2026)** with a passion for AI, Machine Lea
 - 🤖 **AI/ML:** Working on real-world AI applications
 - 📂 **Databases:** SQL-based DBMS
 
-### 📌 My GitHub Stats
-![Raquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rex322&show_icons=true&theme=radical)
-
-### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex322&layout=compact&theme=radical)
-
 ---
 ⭐ **Feel free to explore my repositories and connect with me!**
