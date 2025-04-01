@@ -18,6 +18,5 @@ I'm a **B.Tech student in AIML (Batch 2026)** with a passion for AI, Machine Lea
 - 🚀 **Programming:** Java, C, Python, SQL
 - 🤖 **AI/ML:** Working on real-world AI applications
 - 📂 **Databases:** SQL-based DBMS
-
 ---
 ⭐ **Feel free to explore my repositories and connect with me!**
