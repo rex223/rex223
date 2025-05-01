@@ -1,12 +1,12 @@
 ### 👋 Hi, I'm Raquib!
 
-I'm a **B.Tech student in AIML (Batch 2026)** with a passion for AI, Machine Learning and Deep Learning. I'm currently working on **Traffic Sign Recognition (TRS)** rover integration and plan to upload it to GitHub soon.The web app is live in DeepLearning_models\TRS repository.
+I'm a **B.Tech student in AIML (Batch 2026)** with a passion for AI, Machine Learning and Deep Learning.
 
 ### 🚀 About Me
 - 🎓 **Degree:** B.Tech in AI & ML (Batch 2026)
 - 💻 **Languages:** Java, C, Python, SQL
 - 📚 **Currently Learning:** DSA in Java
-- 🔬 **Projects:** Working on **Traffic Sign Recognition (TRS)** for autonomous vehicles.
+- 🔬 **Projects:** Projects can be viewed in the repositories.
 - 🌱 **Future Goals:** Strengthening **DSA in Java** and contributing to open-source AI/ML projects.
 
 ### 🔗 Connect with Me
